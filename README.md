@@ -4,7 +4,7 @@ This repository contains GSoC Proposals submitted by various aspirants across th
 ## Basic Layout of the repository
 Root folder contains years of GSoC respectively
 Every year folder in the repo contains organization to which a particular proposal was submitted to .
-The files will follow the following naming convention `ProjectNamr_NameOfContributor.pdf`
+The files will follow the following naming convention `ProjectName_Name/usernameOfContributor.pdf`
 ```
 |-Year
     |-Organisation Name
