@@ -1,5 +1,6 @@
 # gsoc-proposals-archive
 This repository contains GSoC Proposals submitted by various aspirants across the years. The proposals have been sorted firstly on the basis of the organization to which they were applied and accepted.
+**NOTE - This repo is not affiliated with Google or Google Summer of Code**
 
 ## Basic Layout of the repository
 Root folder contains years of GSoC respectively
