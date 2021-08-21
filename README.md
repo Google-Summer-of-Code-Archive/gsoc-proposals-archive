@@ -1,1 +1,1 @@
-# gsoc-proposals-archieve
+# gsoc-proposals-archive
