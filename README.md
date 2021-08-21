@@ -9,6 +9,7 @@ The files will follow the following naming convention `ProjectNamr_NameOfContrib
 |-Year
     |-Organisation Name
         |-Proposal
+```
 
 ## Contribution to the project
 
